@@ -123,9 +123,12 @@ Project website berada di dalam folder `webdesign_sixseven_technoversary_vol.II`
 
 ```bash
 cd webdesign_sixseven_technoversary_vol.II
+```
+langkah selanjutnya
+
+```bash
 cd webdesign_sixseven_technoversary_vol.II
 ```
-
 ### 4. Install Dependencies dan Jalankan
 
 Instal dependencies:
