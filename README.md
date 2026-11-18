@@ -1,4 +1,4 @@
-# NUSA: Puncak Cerita Nusantara
+<img width="2412" height="1531" alt="image" src="https://github.com/user-attachments/assets/1d6740a1-b39f-4ef5-93f7-d39ff245ed5e" /><img width="2412" height="1531" alt="image" src="https://github.com/user-attachments/assets/ee8f96f9-b0af-4ac3-8341-c850b6123d70" /># NUSA: Puncak Cerita Nusantara
 
 > *Setiap puncak memiliki cerita, setiap gunung menyimpan makna.*
 
@@ -164,3 +164,27 @@ Source code project NUSA dapat diakses melalui [repository GitHub](https://githu
 **NUSA — Puncak Cerita Nusantara**
 
 *Merangkai pengetahuan, membaca bentang alam, dan mengenal kekayaan Nusantara.*
+
+**Dokumentasi**
+> halaman beranda
+<img width="2415" height="1528" alt="image" src="https://github.com/user-attachments/assets/eb41f1a6-d55e-4d16-accd-1e2404367b8b" />
+
+
+> halaman jelajah
+<img width="2412" height="1531" alt="image" src="https://github.com/user-attachments/assets/2b5a66c2-70d9-4a2e-a960-1518095ef65b" />
+
+
+<img width="2418" height="1531" alt="image" src="https://github.com/user-attachments/assets/572c217d-cc24-4911-8eb4-45e08710b73b" />
+
+
+> halaman tentang
+<img width="2418" height="1535" alt="image" src="https://github.com/user-attachments/assets/7f464f44-53b5-4b12-a1a6-6894ed7a783a" />
+
+
+> halaman kontak
+<img width="2420" height="1536" alt="image" src="https://github.com/user-attachments/assets/63917f1c-67f8-464d-9992-6c130ce18fdd" />
+
+
+> mobile UI
+<img width="592" height="1531" alt="image" src="https://github.com/user-attachments/assets/72e65598-04e0-4cf0-938a-8150ea2f4ff8" />
+
