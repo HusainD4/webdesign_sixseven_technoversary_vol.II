@@ -167,9 +167,7 @@ npm run build
 ## Dokumentasi Antarmuka
 
 ### Pratinjau Utama
-<img width="2412" height="1531" alt="Pratinjau Antarmuka NUSA 1" src="https://github.com/user-attachments/assets/1d6740a1-b39f-4ef5-93f7-d39ff245ed5e" />
 
-<img width="2412" height="1531" alt="Pratinjau Antarmuka NUSA 2" src="https://github.com/user-attachments/assets/ee8f96f9-b0af-4ac3-8341-c850b6123d70" />
 
 ### Halaman Beranda
 <img width="2415" height="1528" alt="Halaman Beranda NUSA" src="https://github.com/user-attachments/assets/eb41f1a6-d55e-4d16-accd-1e2404367b8b" />
