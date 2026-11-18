@@ -104,65 +104,59 @@ Ikuti langkah-langkah berikut untuk mengunduh, menginstal, dan menjalankan proje
 
 ### 1. Persyaratan
 
-Pastikan perangkat telah memiliki beberapa *tools* berikut:
+Pastikan perangkat telah memasang:
 
-* [Node.js](https://nodejs.org/)
-
-* [NPM](https://www.npmjs.com/)
-
+* [Node.js](https://nodejs.org/) (sudah termasuk npm)
 * [Git](https://git-scm.com/)
 
 ### 2. Clone Repository
 
-Buka terminal atau command prompt, kemudian jalankan perintah berikut untuk mengunduh repository:
+Buka terminal, lalu clone repository NUSA:
 
 ```bash
-git clone https://github.com/devhaisenofficial/Nusa---Puncak-Cerita-Nusantara.git
+git clone https://github.com/HusainD4/webdesign_sixseven_technoversary_vol.II.git
 ```
 
-### 3. Masuk ke Direktori Project
+### 3. Masuk ke Folder Project
 
-Setelah proses cloning selesai, masuk ke direktori project dengan perintah:
+Project website berada di dalam folder `webdesign_sixseven_technoversary_vol.II`. Masuk ke folder tersebut:
 
 ```bash
-cd Nusa---Puncak-Cerita-Nusantara
+cd webdesign_sixseven_technoversary_vol.II
+cd webdesign_sixseven_technoversary_vol.II
 ```
 
-### 4. Install Dependencies
+### 4. Install Dependencies dan Jalankan
 
-Jalankan perintah berikut untuk menginstal seluruh dependencies yang dibutuhkan oleh project:
+Instal dependencies:
 
 ```bash
 npm install
 ```
 
-### 5. Build Project
-
-Setelah seluruh dependencies berhasil diinstal, jalankan perintah berikut:
-
-```bash
-npm run build
-```
-
-### 6. Menjalankan Project
-
-Untuk menjalankan project pada lingkungan pengembangan lokal, gunakan perintah:
+Jalankan server pengembangan:
 
 ```bash
 npm run dev
 ```
 
-Setelah berhasil dijalankan, buka browser dan akses alamat lokal yang ditampilkan pada terminal (biasanya):
+Buka alamat lokal yang ditampilkan di terminal, biasanya:
 
 ```text
 http://localhost:5173
 ```
 
+Untuk memeriksa build produksi (opsional), jalankan dari folder project:
+
+```bash
+npm run build
+```
+
 ## Repository
 
-Source code project NUSA dapat diakses melalui GitHub:
+Source code project NUSA dapat diakses melalui [repository GitHub](https://github.com/HusainD4/webdesign_sixseven_technoversary_vol.II).
 
-<https://github.com/devhaisenofficial/Nusa---Puncak-Cerita-Nusantara>
+> Catatan: setelah clone, perintah `cd` harus dijalankan dari folder repository hasil clone.
 
 **NUSA — Puncak Cerita Nusantara**
 
